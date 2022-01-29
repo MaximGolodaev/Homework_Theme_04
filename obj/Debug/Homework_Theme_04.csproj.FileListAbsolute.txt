@@ -1,0 +1,15 @@
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.CoreCompileInputs.cache
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb
+C:\Users\migmax\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.AssemblyReference.cache
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.AssemblyReference.cache
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.CoreCompileInputs.cache
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+C:\Users\ainuy\source\repos\4.1_1Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb
